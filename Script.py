@@ -1,20 +1,22 @@
 class script(object):   
-    HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂🏳️."""
 
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/mr_MKN>𝙈𝙧.𝙈𝙆𝙉 𝙏𝙂</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁-𝙱𝙾𝚃 𝚟3.0.0"""
+    ABOUT_TXT = """✯ 𝙈𝙔 𝙉𝘼𝙈𝙀 : {}
+✯ 𝘾𝙍𝙀𝘼𝙏𝙀𝙍 : <a href=https://t.me/vis_hnu_bot>𝐕𝐈𝐒𝐇𝐍𝐔_𝐀</a>
+✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+✮ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+✮ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
+✮ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
+✮ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚅1.0.43
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝚁𝙰𝙸𝙻𝚆𝙰𝚈
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝗘𝗩𝗔 𝗠𝗔𝗥𝗜𝗔 𝚟3.0.0"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
+-➤ 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲 𝗢𝘄𝗻𝗲𝗿 :<a href=https://t.me/vis_hnu_bot>𝐕𝐈𝐒𝐇𝐍𝐔_𝐀</a>
 
-<b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/mr_MKN>𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a>"""
+<b>𝘿𝙚𝙫:</b>
+-➤ <a href=https://t.me/vis_hnu_bot>𝐕𝐈𝐒𝐇𝐍𝐔_𝐀</a>
+"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -28,7 +30,7 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/mkn_bots_updates https://t.me/mkn_bots_updates</code>
+<code>/batch https://t.me/myaat https://t.mem/jajaj</code>
 
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/mkn_bots_updates><b>𝙼𝙺𝙽 𝙱𝙾𝚃𝚉</b></a>"""
     
@@ -51,12 +53,12 @@ class script(object):
    
     BUTTON_TXT = """Help: <b>Buttons</b>
 
--this bot Supports both url and alert inline buttons.
+-𝙩𝙝𝙞𝙨 𝙗𝙤𝙩 𝙎𝙪𝙥𝙥𝙤𝙧𝙩𝙨 𝙗𝙤𝙩𝙝 𝙪𝙧𝙡 𝙖𝙣𝙙 𝙖𝙡𝙚𝙧𝙩 𝙞𝙣𝙡𝙞𝙣𝙚 𝙗𝙪𝙩𝙩𝙤𝙣𝙨.
 
 <b>NOTE:</b>
-1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. This bot supports buttons with any telegram media type.
-3. Buttons should be properly parsed as markdown format
+1. 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙬𝙞𝙡𝙡 𝙣𝙤𝙩 𝙖𝙡𝙡𝙤𝙬𝙨 𝙮𝙤𝙪 𝙩𝙤 𝙨𝙚𝙣𝙙 𝙗𝙪𝙩𝙩𝙤𝙣𝙨 𝙬𝙞𝙩𝙝𝙤𝙪𝙩 𝙖𝙣𝙮 𝙘𝙤𝙣𝙩𝙚𝙣𝙩, 𝙨𝙤 𝙘𝙤𝙣𝙩𝙚𝙣𝙩 𝙞𝙨 𝙢𝙖𝙣𝙙𝙖𝙩𝙤𝙧𝙮.
+2. 𝙏𝙝𝙞𝙨 𝙗𝙤𝙩 𝙨𝙪𝙥𝙥𝙤𝙧𝙩𝙨 𝙗𝙪𝙩𝙩𝙤𝙣𝙨 𝙬𝙞𝙩𝙝 𝙖𝙣𝙮 𝙩𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙢𝙚𝙙𝙞𝙖 𝙩𝙮𝙥𝙚.
+3. 𝘽𝙪𝙩𝙩𝙤𝙣𝙨 𝙨𝙝𝙤𝙪𝙡𝙙 𝙗𝙚 𝙥𝙧𝙤𝙥𝙚𝙧𝙡𝙮 𝙥𝙖𝙧𝙨𝙚𝙙 𝙖𝙨 𝙢𝙖𝙧𝙠𝙙𝙤𝙬𝙣 𝙛𝙤𝙧𝙢𝙖𝙩.
 
 <b>URL buttons:</b>
 <code>[Button Text](buttonurl:xxxxxxxxxxxx)</code>
@@ -76,7 +78,7 @@ class script(object):
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/mr_MKN>Mr.MKN TG</a>**"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/vis_hnu_bot>𝘿𝙌.𝘽𝙤𝙩</a>**"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
@@ -185,7 +187,7 @@ By @{} """
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/mr_MKN>Mr.MKN TG</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/vis_hnu_bot>𝘿𝙌.𝘽𝙤𝙩</a>"""
 
     RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
 
