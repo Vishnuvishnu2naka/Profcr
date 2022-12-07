@@ -909,7 +909,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('❣️ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 ❣️', callback_data='source')
+            InlineKeyboardButton('☢️ 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲 ☢️', callback_data='source')
             ],[
             InlineKeyboardButton('🏠 𝙃𝙤𝙢𝙚 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝗖𝗟𝗢𝗦𝗘 🔐', callback_data='close_data')
@@ -922,7 +922,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('SOURCE CODE', url='https://github.com/MrMKN/PROFESSOR-BOT')
+            InlineKeyboardButton('☢️ 𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲 ☢️', url='https://t.me/+9S2mahRqho0wZGJl')
             ],[
             InlineKeyboardButton('👩‍🦯 𝘽𝙖𝙘𝙠', callback_data='about')
         ]]
